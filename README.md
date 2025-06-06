@@ -12,6 +12,7 @@
 ## docker hub
 - [siat-git-action-backend](https://hub.docker.com/r/seongwookjeong/siat-git-action-backend)
 - [siat-git-action-frontend](https://hub.docker.com/r/seongwookjeong/siat-git-action-frontend)
+- [seongwookjeong/siat-mariadb](https://hub.docker.com/r/seongwookjeong/siat-mariadb)
 
 
 # ci/cd
